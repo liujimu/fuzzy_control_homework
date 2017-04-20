@@ -1,5 +1,5 @@
 [System]
-Name='question1'
+Name='question2'
 Type='mamdani'
 Version=2.0
 NumInputs=2
@@ -54,6 +54,7 @@ MF7='PL':'trimf',[4 6 8]
 1 4, 1 (1) : 1
 1 5, 2 (1) : 1
 1 6, 3 (1) : 1
+1 7, 4 (1) : 1
 2 1, 1 (1) : 1
 2 2, 1 (1) : 1
 2 3, 2 (1) : 1
